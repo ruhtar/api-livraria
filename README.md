@@ -8,7 +8,7 @@
 
 ## Descrição
 
-API criada do zero durante curso da Alura utilizando do estilo arquitetural REST. Utilizou-se o framework Express, além de ter sido feita a conexão dessa API com o banco de dados MongoDB. A API simula um sistema de cadastro de livros e autores de uma livraria. 
+API criada utilizando do estilo arquitetural REST. Utilizou-se o framework Express, além de ter sido feita a conexão dessa API com o banco de dados MongoDB. A API simula um sistema de cadastro de livros e autores de uma livraria. 
 
 #### Tecnologias
 
