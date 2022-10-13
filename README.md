@@ -2,7 +2,7 @@
 
 ![Project Image](https://media.istockphoto.com/photos/books-stacked-on-table-at-bookstore-picture-id120004828?k=20&m=120004828&s=612x612&w=0&h=3Id1rv7HDuCY4aOIas4SGK3yJ_3uJoTQPE35B8i3kwE=)
 
-> API desenvolvida durante curso da Alura.
+> Sistema de livraria.
 
 ---
 
